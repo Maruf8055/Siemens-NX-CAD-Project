@@ -4,7 +4,7 @@
 ## Overview
 The Rotating Parking Structure project aims to address urban parking challenges by providing an efficient, space-saving solution. Utilizing NX CAD for design, the project incorporates a rotating mechanism to maximize parking space usage, making it an ideal solution for densely populated areas. This innovative design minimizes the time spent searching for parking, enhances user experience
 
-##Problem Statement:
+## Problem Statement:
 The design process for a 3D parking structure is inefficient, resulting in increased production costs, longer lead times, and potential errors in assembly. Without a streamlined approach to CAD modeling and effective management of engineering guidance, teams face difficulties in meeting project deadlines while ensuring the quality and performance of the structure.
 
 ## Libraries and Tools Used
